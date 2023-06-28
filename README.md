@@ -1,1 +1,1 @@
-# MintAnge.github.io
+# MintAnge
