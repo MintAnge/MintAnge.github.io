@@ -29,7 +29,7 @@ layout: default
   
   Модуль "Информатика и физика для инженеров". Физика
   
-  [Модуль "Информационные технологии в математике и физике". Информационные технологии в математике](https://drive.google.com/drive/folders/10v3dMv_QZDW9BrMHeEFzzG2VlfIfuGM-?usp=drive_link)
+  [Модуль "Информационные технологии в математике и физике". Информационные технологии в математике](https://drive.google.com/drive/folders/10v3dMv_QZDW9BrMHeEFzzG2VlfIfuGM-?usp=drive_link) 
   
   Модуль "Информационные технологии в математике и физике". Основы компьютерной алгебры
   
@@ -53,7 +53,7 @@ layout: default
   
   Модуль "Информатика и физика для инженеров". Физика
   
-  [Модуль "Информационные технологии в математике и физике". Информационные технологии](https://drive.google.com/drive/folders/1qnrStCc2zpt7630wSMXa3C8gmpfZIz_D?usp=drive_link)
+  [Модуль "Информационные технологии в математике и физике". Информационные технологии](https://drive.google.com/drive/folders/1qnrStCc2zpt7630wSMXa3C8gmpfZIz_D?usp=drive_link) 
   
   Модуль "Математика для инженеров". Аналитическая геометрия
   
@@ -61,7 +61,7 @@ layout: default
   
   Модуль "Математика для инженеров". Математический анализ
   
-  [Модуль "Общекультурный мировоззренческий экономический". Иностранный язык (английский)](https://drive.google.com/drive/folders/1jVPw0mTnyNm--TVuu0sa8JlroAZ22TnW?usp=drive_link)
+  [Модуль "Общекультурный мировоззренческий экономический". Иностранный язык (английский)](https://drive.google.com/drive/folders/1jVPw0mTnyNm--TVuu0sa8JlroAZ22TnW?usp=drive_link) 
   
   Модуль "Общекультурный мировоззренческий экономический". История
   
@@ -85,7 +85,7 @@ layout: default
 
 <details><summary> 4 семестр </summary>
   
-  [Модуль "Компьютерная графика и управление информацией". Базы данных](https://drive.google.com/drive/folders/1MG1LvcnLJbabw7j2EIBv9ViT84DFS2vz?usp=drive_link)
+  [Модуль "Компьютерная графика и управление информацией". Базы данных](https://drive.google.com/drive/folders/1MG1LvcnLJbabw7j2EIBv9ViT84DFS2vz?usp=drive_link) 
   
   Модуль "Математика для инженеров". Интегралы и дифференциальные уравнения
 
@@ -101,7 +101,7 @@ layout: default
   
   Модуль "Технологии и методы вычислений". Технологии компьютерного моделирования
   
-  [Программирование](https://drive.google.com/drive/folders/1YNzsLWIYciSYnPVFSRGBGXYo4Bac7tgi?usp=drive_link)
+  [Программирование](https://drive.google.com/drive/folders/1YNzsLWIYciSYnPVFSRGBGXYo4Bac7tgi?usp=drive_link) 
      
 </details>
 
@@ -109,31 +109,31 @@ layout: default
   
   Модуль "Информационные ресурсы и средства профессиональной деятельности инженера". Пакеты прикладных программ для статистической обработки и анализа данных
   
-  [Модуль "Информационные технологии в управлении в IT-компании". IT-менеджмент](https://drive.google.com/drive/folders/1omoujcCmjEWXp46An0-jk20vxJO9JlxD?usp=drive_link)
+  [Модуль "Информационные технологии в управлении в IT-компании". IT-менеджмент](https://drive.google.com/drive/folders/1omoujcCmjEWXp46An0-jk20vxJO9JlxD?usp=drive_link) 
   
   Модуль "Информационные технологии в управлении в IT-компании". Основы бизнес-информатики
   
-  [Модуль "Информационные технологии". Информационные технологии в изучении иностранных языков](https://drive.google.com/drive/folders/1gevn1ugTNgk-06NclcLOUTImZPc1b1KG?usp=drive_link)
+  [Модуль "Информационные технологии". Информационные технологии в изучении иностранных языков](https://drive.google.com/drive/folders/1gevn1ugTNgk-06NclcLOUTImZPc1b1KG?usp=drive_link) 
   
   Модуль "Компьютерная графика и управление информацией". Компьютерная графика
   
-  [Модуль "Компьютерная графика и управление информацией". Математические основы компьютерной графики](https://drive.google.com/drive/folders/1C4mPiZrnPsLCyUwPt6bCZ3qRVH73KMRS?usp=drive_link)
+  [Модуль "Компьютерная графика и управление информацией". Математические основы компьютерной графики](https://drive.google.com/drive/folders/1C4mPiZrnPsLCyUwPt6bCZ3qRVH73KMRS?usp=drive_link) 
   
   Модуль "Организация и архитектура ЭВМ". Сети и телекоммуникации
   
-  [Программирование](https://drive.google.com/drive/folders/1vF6fyJF40If4uFIIyNk3TWYrXzXMueLX?usp=drive_link)
+  [Программирование](https://drive.google.com/drive/folders/1vF6fyJF40If4uFIIyNk3TWYrXzXMueLX?usp=drive_link) 
      
 </details>
 
 <details><summary> 6 семестр </summary>
   
-  [Модуль "Информационные ресурсы и средства профессиональной деятельности инженера". Математические основы глубокого обучения](https://drive.google.com/drive/folders/1lSYjgm84CzhcF3jEDnxNBqyi1wxmKL6u?usp=drive_link)
+  [Модуль "Информационные ресурсы и средства профессиональной деятельности инженера". Математические основы глубокого обучения](https://drive.google.com/drive/folders/1lSYjgm84CzhcF3jEDnxNBqyi1wxmKL6u?usp=drive_link) 
   
   Модуль "Информационные технологии в управлении в IT-компании". Основы электронного управления
   
   Модуль "Информационные технологии". Основы корпоративного электронного обучения
   
-  [Модуль "Информационные технологии". Прикладные информационные технологии](https://drive.google.com/drive/folders/1-juZE-SjQeFWAzkjCnq3CLyXHqqIODjK?usp=drive_link)
+  [Модуль "Информационные технологии". Прикладные информационные технологии](https://drive.google.com/drive/folders/1-juZE-SjQeFWAzkjCnq3CLyXHqqIODjK?usp=drive_link) 
   
   Модуль "Компьютерная графика и управление информацией". Инженерная графика
   
@@ -143,7 +143,7 @@ layout: default
   
   Модуль "Организация и архитектура ЭВМ". Основы машинного обучения
   
-  [Модуль "Организация и архитектура ЭВМ". Техники и технологии визуализации данных](https://drive.google.com/drive/folders/1VW-KjEtAeZB2bimhWMUloHg8C_mGdp7c?usp=drive_link)
+  [Модуль "Организация и архитектура ЭВМ". Техники и технологии визуализации данных](https://drive.google.com/drive/folders/1VW-KjEtAeZB2bimhWMUloHg8C_mGdp7c?usp=drive_link) 
   
   Программирование
   
@@ -155,7 +155,7 @@ layout: default
   
   Модуль "Информационные ресурсы и средства профессиональной деятельности инженера". Организация электронной образовательной среды
   
-  [Модуль "Информационные ресурсы и средства профессиональной деятельности инженера". Управление программными проектами](https://drive.google.com/drive/folders/1f7eDfNbR6qS7v8_jaZxqoQzeU62MhpOF?usp=drive_link)
+  [Модуль "Информационные ресурсы и средства профессиональной деятельности инженера". Управление программными проектами](https://drive.google.com/drive/folders/1f7eDfNbR6qS7v8_jaZxqoQzeU62MhpOF?usp=drive_link) 
   
   Модуль "Общекультурный мировоззренческий экономический". Иностранный язык (английский)
   
@@ -187,7 +187,7 @@ layout: default
   
   Модуль "Учебно-исследовательский"
   
-  [Модуль "Учебно-исследовательский". Языки написания спецификаций](https://drive.google.com/drive/folders/1b6IN3bcFmdx4d73ZsjD3b_beroELEB9m?usp=drive_link)
+  [Модуль "Учебно-исследовательский". Языки написания спецификаций](https://drive.google.com/drive/folders/1b6IN3bcFmdx4d73ZsjD3b_beroELEB9m?usp=drive_link) 
      
 </details>
 
