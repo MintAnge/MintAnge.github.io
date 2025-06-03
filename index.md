@@ -22,8 +22,10 @@ layout: default
 
 * * *
 <details><summary> name </summary>
+  
   1. here
   2. here
+     
 </details>
 
 ## Работы для университета
